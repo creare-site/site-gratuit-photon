@@ -1,4 +1,4 @@
-﻿# [Site Gratuit Photon](https://site-gratuit-photon.websitemarket.ro/) - Site Prezentare
+# [Site Gratuit Photon](https://websitemarket.ro/site-gratuit/photon/)
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -11,7 +11,8 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 ## Informatii produs
 
 - Site Gratuit - Site de prezentare
-- Live [DEMO](https://site-gratuit-photon.websitemarket.ro)
+- [Site Gratuit Photon DEMO](https://site-gratuit-photon.websitemarket.ro)
+- [Site Gratuit Photon](https://websitemarket.ro/site-gratuit/photon/) - product Info
  
 <br />
 
@@ -43,4 +44,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Site Gratuit Photon](https://site-gratuit-photon.websitemarket.ro/) un produs **WebsiteMarket**
+[Site Gratuit Photon](https://websitemarket.ro/site-gratuit/photon/) un produs **WebsiteMarket**
